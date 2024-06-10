@@ -7,9 +7,15 @@ pendown()
 # Draw square
 speed(100)
 width(5)
-for _ in range(4):
-    forward(200)
-    left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+
 
 # Draw door
 begin_fill()
